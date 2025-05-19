@@ -1,0 +1,35 @@
+// create hello world server
+// creating routes
+// write file
+// read file
+// jwt token generation
+
+// single file upload
+// multiple file upload
+// password hashing
+// crud
+// Middleware
+
+
+// JS 
+1. closure
+2. hoisting
+3. scope
+4. spread operator
+5. callback
+6. promises 
+7. async/await
+8. reverse string
+9. var let const
+10. Higher order function
+
+// Node.JS 
+1. create websocket server
+2. Authentication and Profile Access (register login apis)
+3. Handle Promises and Async/Await. (Write a Node.js function that fetches data from a URL using the axios library.) 
+4. Error Handling
+
+// Node/Express
+1. Rate Limiting
+2. Pagination
+3. Search API

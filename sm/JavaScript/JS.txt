@@ -1,0 +1,21 @@
+// Top 10 JavaScript Technical Coding Interview Questions.
+
+1. Reverse a String
+2. Check for Palindrome
+3. Check if Two Strings are Anagrams
+4. Find the Largest Number in an Array
+5. FizzBuzz
+
+6. Remove Duplicates from an Array
+7. Find Factorial of a Number
+8. Find Missing Number in an Array
+9. Flatten a Nested Array
+10. Check for Prime Number.
+11. Fibonacci Series.
+
+
+1. Sort elemenets
+2. Map
+3. Reduce method (for sum of all elemets)
+4. Filter
+5. find second largest and second smallest element
